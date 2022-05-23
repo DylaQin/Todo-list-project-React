@@ -1,3 +1,5 @@
+## The todo list web page looks like the fowllowing:
+![image](https://github.com/Dylicia/MDN-todo_list-project-using-React/blob/master/Screen%20Shot%202022-05-24%20at%200.49.58.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
